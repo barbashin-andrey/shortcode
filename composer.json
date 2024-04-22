@@ -1,0 +1,14 @@
+{
+    "name": "barbashin-andrey/shortcode",
+    "description": "PHP shortcodes handler",
+    "type": "library",
+    "license": "https://github.com/WordPress/WordPress/blob/master/wp-includes/shortcodes.php#L63",
+    "autoload": {
+        "files": [
+            "shortcode/shortcode-handler.php",
+            "shortcode/shortcode-parser.php"
+        ]
+    },
+    "minimum-stability": "stable",
+    "require": {}
+}

@@ -1,7 +1,5 @@
 <?php
 
-namespace Shortcode;
-
 /**
  * Class to handle shortcodes in your (html or any other...) content
  */

@@ -2,7 +2,7 @@
 ## Based on Wordpress sources for my personal purposes
 ### Example
     
-    use Shortcode\ShortcodeHandler;
+    require_once __DIR__.'/vendor/autoload.php';
     
     function sampleFunc($params) {
         $atts = $params["atts"];

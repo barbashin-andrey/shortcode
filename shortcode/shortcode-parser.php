@@ -1,8 +1,5 @@
 <?php
 
-namespace Shortcode;
-
-
 /**
  * Shortcode parser (created for ShortcodeHandler)
  */
