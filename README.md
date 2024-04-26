@@ -32,6 +32,7 @@ Result:
     <p>Name: Alex</p><p>Age: 18</p>
     <p>Some other elements</p>
 
-### Links
-If you're new at PHP, you can read more about callback functions here:
-https://www.php.net/manual/en/language.types.callable.php
+### Installation
+Via composer:
+
+    composer require barbashin-andrey/shortcode
